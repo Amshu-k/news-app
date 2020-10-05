@@ -1,4 +1,4 @@
-This is a super simple Voice controlled news application built using React.js and Alan AI. Material-UI as used to design the website. 
+This is a super simple Voice controlled news application built using <b>React.js</b> and Alan AI. Material-UI as used to design the website. 
 The project is deployed on Firebase. Checkout out the [Website](https://newsvoicee.web.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
