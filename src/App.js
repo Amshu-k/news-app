@@ -35,7 +35,7 @@ const App = () => {
 
     return (
         <div>
-            <Typography variant='h2' color='primary' align='center'>Science News</Typography>
+            <Typography variant='h2' color='primary' align='center'>News App - Voice Controlled</Typography>
             <NewsCards articles={news} activeArticle={activeArticle} />
         </div>
     )
