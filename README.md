@@ -1,4 +1,4 @@
-Checkout out the [Website](https://newsvoicee.web.app/) <br />
+Checkout out the [website here.](https://newsvoicee.web.app/) <br />
 
 This is a super simple Voice controlled news application built using <b>React.js</b> and <b>Alan AI</b>. <b>Material-UI</b> as used to design the website. 
 The project is deployed on Firebase.
